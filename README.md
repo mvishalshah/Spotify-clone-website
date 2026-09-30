@@ -1,6 +1,6 @@
-# DevCamp 2.0 — Spotify Website Clone
+# DevCamp 2.0 — Spotify Website Clone (By Vishal)
 
-A 3-page static Spotify-style website built with HTML5 and CSS3 only.
+A 3-page static Spotify-style website built with HTML and CSS only.
 
 ## Files
 - index.html — Home
@@ -21,5 +21,3 @@ A 3-page static Spotify-style website built with HTML5 and CSS3 only.
 - Box model: padding, margin, border-radius
 - Palette: #1DB954 and #191414
 - Hover effects
-
-Open `index.html` in a browser to start.
